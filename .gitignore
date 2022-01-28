@@ -1,0 +1,19 @@
+# do not track bootstrap
+css/
+
+# do not track font awesome
+fa/
+
+# do not track this html works
+bootstrapclass.html
+bootstrapday2.html
+bootstrapday3.html
+classwork.html
+index.html
+skima.html
+g1.jpg
+g2.jpg
+logo2.jpg
+
+# do not track javascript
+js/
